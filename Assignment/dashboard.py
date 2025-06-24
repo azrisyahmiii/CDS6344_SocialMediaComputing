@@ -52,15 +52,15 @@ st.markdown("""
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
     .success-box {
-        background-color: #d4edda;
-        border: 1px solid #c3e6cb;
+        background-color: #7ecf87; /* darker green */
+        border: 1px solid #5fa96a;
         border-radius: 5px;
         padding: 10px;
         margin: 10px 0;
     }
     .info-box {
-        background-color: #d1ecf1;
-        border: 1px solid #bee5eb;
+        background-color: #5bb6ce; /* darker blue */
+        border: 1px solid #399ab3;
         border-radius: 5px;
         padding: 10px;
         margin: 10px 0;
